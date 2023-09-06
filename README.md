@@ -20,3 +20,5 @@ npx prisma init --datasource-provider mongodb
 
 # Extenções:
 Prisma Fromt Prisma
+
+FALTA EU COLOCAR O LINK DO9 MONGO DB NO ARQUIVO .ENV
